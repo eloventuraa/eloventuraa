@@ -25,7 +25,7 @@ Sou estudante do curso **Técnico em Desenvolvimento de Sistemas no SENAI**. Apa
 ---
 
 ### 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io)](https://linkedin.com)
-[![Email](https://img.shields.io)](mailto:eloisaventura2009@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_PERFIL_AQUI/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eloisaventura2009@gmail.com)
 
 ---
