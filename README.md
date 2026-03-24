@@ -20,7 +20,7 @@ Sou estudante do curso **Técnico em Desenvolvimento de Sistemas no SENAI**. Apa
 ### 📊 Estatísticas
 *(Lembre-se de substituir **SEU-USUARIO** pelo seu login do GitHub abaixo)*
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
 
 ---
 
