@@ -10,16 +10,13 @@ Sou estudante do curso **Técnico em Desenvolvimento de Sistemas no SENAI**. Apa
 - 🎓 Focada em metodologias ágeis e boas práticas no **SENAI**
 - 🌱 Explorando novas linguagens e frameworks
 
----
-
 ### 🛠️ Tecnologias e Ferramentas
+
 ![HTML5](https://img.shields.io)
 ![CSS3](https://img.shields.io)
 ![JavaScript](https://img.shields.io)
 ![Git](https://img.shields.io)
 ![GitHub](https://img.shields.io)
-
----
 
 ### 📊 Estatísticas
 *(Lembre-se de substituir **SEU-USUARIO** pelo seu login do GitHub abaixo)*
