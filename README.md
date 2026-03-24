@@ -6,32 +6,30 @@ Sou estudante do curso **Técnico em Desenvolvimento de Sistemas no SENAI**. Apa
 ---
 
 ### 🚀 O que estou aprendendo agora
-*   💻 **Desenvolvimento de Sistemas** (Lógica, Front-end e Back-end)
-*   🎓 Focada em metodologias ágeis e boas práticas de programação no **SENAI**
-*   🌱 Explorando novas linguagens e frameworks para construir projetos reais
+- 💻 **Desenvolvimento de Sistemas** (Lógica, Front-end e Back-end)
+- 🎓 Focada em metodologias ágeis e boas práticas no **SENAI**
+- 🌱 Explorando novas linguagens e frameworks
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-<div align="left">
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-</div>
+![HTML5](https://img.shields.io)
+![CSS3](https://img.shields.io)
+![JavaScript](https://img.shields.io)
+![Git](https://img.shields.io)
+![GitHub](https://img.shields.io)
 
 ---
 
 ### 📊 Estatísticas
-<p align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app"/>
-</p>
+*(Lembre-se de substituir **SEU-USUARIO** pelo seu login do GitHub abaixo)*
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app)
 
 ---
 
 ### 📫 Vamos nos conectar?
-<div align="left">
-  <a href="mailto:seuemail@exemplo.com" target="_blank"><img src="https://img.shields.io" /></a>
-  <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io" /></a>
-</div>
+[![LinkedIn](https://img.shields.io)](https://linkedin.com)
+[![Email](https://img.shields.io)](mailto:seuemail@exemplo.com)
+
+---
