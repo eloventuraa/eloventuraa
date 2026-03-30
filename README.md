@@ -1,5 +1,5 @@
 # Olá, eu sou a Eloísa! 👋
-![giphy](https://github.com/user-attachments/assets/e2563263-383e-412f-9297-bd9bf1b80ff5)
+
 
 <img 
 src="https://media.giphy.com/media/4bz6frJ6gNlCUEExIu/giphy.gif" width="100" />
