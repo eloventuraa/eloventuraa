@@ -1,4 +1,4 @@
-# Olá, eu sou a Eloísa! 👋
+# Olá, eu sou a Eloísa! 
 ![200](https://github.com/user-attachments/assets/253d3fd6-1f87-4bd1-b352-0ef2ed0503a6)
 
 
