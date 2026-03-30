@@ -1,4 +1,4 @@
-# Olá, eu sou a Eloisa! 👋
+# Olá, eu sou a Eloísa! 👋
 
 ### 👩‍💻 Sobre mim
 Sou estudante do curso **Técnico em Desenvolvimento de Sistemas no SENAI**. Apaixonada por tecnologia e em constante busca por novos aprendizados para criar soluções criativas e eficientes através do código.
