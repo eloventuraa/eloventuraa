@@ -20,10 +20,7 @@ Sou estudante do curso **Técnico em Desenvolvimento de Sistemas no SENAI**. Apa
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-### 📊 Estatísticas
-*(Lembre-se de substituir **SEU-USUARIO** pelo seu login do GitHub abaixo)*
 
----
 
 ### 📫 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_PERFIL_AQUI/)
