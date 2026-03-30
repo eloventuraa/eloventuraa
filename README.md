@@ -1,5 +1,5 @@
 # Olá, eu sou a Eloísa! 👋
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajc5Mm9xNjAzcDIxN2kwdmJkNzFvMzA3dWxjMzY2a3RncGZvdmp6eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oFzmrk6S4UONeH04w/giphy.gif" width="100" />
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Mmdvb3JnaHYzZDFmeHAxbmY1ZHVmc3d0NnZjeWVrMXppdGwyZjk2NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PXRoKUjcw3EjOX9JZr/giphy.gif" width="100" />
 ### 👩‍💻 Sobre mim
 Sou estudante do curso **Técnico em Desenvolvimento de Sistemas no SENAI**. Apaixonada por tecnologia e em constante busca por novos aprendizados para criar soluções criativas e eficientes através do código.
 
